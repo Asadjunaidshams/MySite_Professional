@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+.fixed-img{
+  height: 50px;
+  position: fixed;
+  left: 50px;
+  padding: 10px;
+}
+.fixed-div{
+  background-color: #40e0d0;
+  position: fixed;
+  height: 90px;
+  width: 90px;
+  text-align: center;
+}
+.fixed-img{
+  left: 8px;
+}
+h1 {
+  height: 50px;
+  color: #00bdaa;
+  margin: 0;
+  font-family: 'Great Vibes', cursive;
+}
+h3{
+  color: #00bdaa;
+  font-family: 'Caveat', cursive;
+}
+
+
+.top-container {
+  background-color: #d1f5d3;
+}
+
+.middle-container {
+  color: #00bdaa;
+background-color: #ccf0e1;
+}
+.cricket{
+  height: 150px;
+}
+.bottom-container {
+  color: #00bdaa;
+background-color: #cff1ef;
+}
+.matrix{
+  height: 200px;
+}
+
+.skills{
+  background-color: #c2f0fc;
+}
+.top-cloud {
+  margin-left: 300px;
+  position: relative;
+  padding-top: 10px;
+}
+
+.bottom-cloud {
+  position: relative;
+  margin-right: 30px;
+  margin-bottom: 160px;
+}
+
+.mountain {
+  height: 280px;
+text-align: center;
+position: relative;
+margin-right: 100px;
+  }
